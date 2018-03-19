@@ -1,6 +1,6 @@
 <?php
 /**
- * @package Akismet
+ * @package Student Studio
  */
 /*
 Plugin Name: Student Studio
